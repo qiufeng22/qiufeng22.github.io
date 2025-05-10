@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qiufeng22.github.io</id>
+    <title>QOQ</title>
+    <updated>2025-05-10T15:29:11.790Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://qiufeng22.github.io"/>
+    <link rel="self" href="https://qiufeng22.github.io/atom.xml"/>
+    <subtitle>蒟蒻的小站</subtitle>
+    <logo>https://qiufeng22.github.io/images/avatar.png</logo>
+    <icon>https://qiufeng22.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, QOQ</rights>
+    <entry>
+        <title type="html"><![CDATA[逆转三班（半退坑）]]></title>
+        <id>https://qiufeng22.github.io/post/ni-zhuan-san-ban/</id>
+        <link href="https://qiufeng22.github.io/post/ni-zhuan-san-ban/">
+        </link>
+        <updated>2023-08-13T05:31:14.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：我自己<br>
+引擎：GameMaker</p>
+<p>这是我的第一个正经（迫真）用游戏引擎做的游戏</p>
+<p>仿逆转裁判的游戏，下载地址可能会改，请以最新的下载网页为准（当前版本为 Test 0.49，此游戏仅支持Windows平台，手机Mac等其他的平台不能运行）。</p>
+<p>下载:https://wwb.lanzouj.com/ifjcY0cw2fvi 密码:1145</p>
+<p>（注：你下载完后需新建一个文件夹，然后把<strong>所有</strong>的文件解压到这个新建的文件夹里,，要在同一目录下！）</p>
+]]></content>
+    </entry>
+</feed>
